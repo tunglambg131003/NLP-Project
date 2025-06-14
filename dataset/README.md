@@ -57,7 +57,7 @@ If you use this dataset in your work, please cite it as follows:
   year={2020},
   url={https://www.kaggle.com/competitions/tweet-sentiment-extraction}
 }
-
+```
 ---
 
 For more details or to download the original dataset, please visit the [Kaggle competition page](https://www.kaggle.com/competitions/tweet-sentiment-extraction).
