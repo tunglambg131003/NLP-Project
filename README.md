@@ -2,6 +2,12 @@
 
 ## Overview
 
+In the era of digital communication, social media platforms such as Twitter, Facebook, Instagram, or Threads have emerged as prominent channels for individuals to express opinions, share experiences, and engage in public discourse. With millions of tweets generated daily, Twitter represents a vast and dynamic source of data that reflects public sentiment on a wide range of topics, including politics, consumer products, social issues, and global events. However, the unstructured and high-volume nature of these data presents significant challenges for manual analysis and interpretation.
+
+Our project seeks to address the problem of efficiently analyzing public sentiment on Twitter through the application of sentiment analysis, which aims to classify textual data based on emotional tone. The ability to systematically analyze the sentiment on social networks has significant implications in multiple domains. For businesses, it enables the identification of customer satisfaction trends, supports reputation management, and informs product or service improvements. In the political arena, sentiment analysis offers insight into public opinion, facilitating more responsive and strategically informed campaign messaging. In marketing, sentiment analysis helps uncover consumer preferences and enhances the development of targeted advertising strategies, etc.  
+
+Through this project, our goal is to build a robust analytical framework that contributes to data-driven decision-making in both academic research and industry practice.
+
 ## Repository Structure
 
 ```
@@ -49,7 +55,7 @@
 - matplotlib
 - plotly
 - scikit-learn
-- 
+
 # Importance 
 
 All notebooks are designed to be run on **Google Colab** for ease of access and GPU acceleration. Please make sure to:
